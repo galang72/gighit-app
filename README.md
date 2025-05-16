@@ -123,7 +123,7 @@
     </li>
     <li>
       Struk yang dihasilkan mode pelanggan memiliki kode <br>
-      <img width="50%" alt="image" src="https://github.com/galang72/gighit-app/issues/1#issue-3069484685"><br>
+      <img width="50%" alt="image" src="https://private-user-images.githubusercontent.com/195325645/444634485-9b0e9a11-a842-4bae-bbd9-51482df34258.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc0MTQ5NTUsIm5iZiI6MTc0NzQxNDY1NSwicGF0aCI6Ii8xOTUzMjU2NDUvNDQ0NjM0NDg1LTliMGU5YTExLWE4NDItNGJhZS1iYmQ5LTUxNDgyZGYzNDI1OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNlQxNjU3MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNDIzNDQxNTkyMGY3MzQxZWRhY2NmOTU0ZjhlNzUxZmYzYTllOWQ2MDhjYmFmY2U2YzQ0ZTAyZmZiZmY3NGI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UwYMp8JvCfmQi5cWbEX6gZjQNBq3SOrzxSybjAWNN7k"><br>
       Struk yang dihasilkan mode admin <br>
       <img width="50%" alt="image" src="https://user-images.githubusercontent.com/96558726/179163445-e3a4de7c-256e-4a6a-9281-a6c54ef5edcf.png"><br>
     </li>
