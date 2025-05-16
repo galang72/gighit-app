@@ -743,7 +743,7 @@ public class OrderMenu implements ActionListener, ChangeListener {
             }
         }
         isi.append("---------------------------------------------\n" +
-                "      TERIMAKASIH DAN SAMPAI JUMPA LAGI\n");
+                "      TERIMAKASIH ATAS KUNJUNGAN ANDA\n");
 
         JScrollPane jsp = new JScrollPane();
         jsp.setViewportView(isi);
