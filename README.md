@@ -123,7 +123,7 @@
     </li>
     <li>
       Struk yang dihasilkan mode pelanggan memiliki kode <br>
-      <img width="50%" alt="image" src="https://https://user-images.githubusercontent.com/96558726/179163208-ba37477e-d939-465d-aeac-883354761d0e.png"><br>
+      <img width="50%" alt="image" src="https://user-images.githubusercontent.com/96558726/179163208-ba37477e-d939-465d-aeac-883354761d0e.png"><br>
       Struk yang dihasilkan mode admin <br>
       <img width="50%" alt="image" src="https://user-images.githubusercontent.com/96558726/179163445-e3a4de7c-256e-4a6a-9281-a6c54ef5edcf.png"><br>
     </li>
